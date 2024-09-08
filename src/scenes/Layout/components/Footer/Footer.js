@@ -6,9 +6,6 @@ export const Footer = (props) => {
     return (
         <footer>
             <p>
-                <small>
-                    Made with passion and dedication.
-                </small>
             </p>
 
             <Divider horizontal>About Us</Divider>
