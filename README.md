@@ -71,5 +71,5 @@ npm start
 ## UML Use Case Diagram
 
 <p align="center">
-<img src="/uml1.png" alt="Calendar icon" width="600" hight="400">
+<img src="/uml.png" alt="Calendar icon" width="600" hight="400">
 </p>
