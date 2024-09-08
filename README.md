@@ -6,6 +6,10 @@
 
 <em>A web application that makes it easy to create a weekly schedule. Meant for students, professionals, parents, and anyone looking to organize their life.</em>
 
+## Video Link
+
+https://youtu.be/dX2Qz5ju8q8
+
 ## Project Set Up
 
 These instructions will get this project up and running on your local machine.
