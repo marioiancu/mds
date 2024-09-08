@@ -1,0 +1,42 @@
+.day {
+    padding: 20px;
+}
+
+.card {
+    min-width: 60%;
+}
+
+.extra.content.event-start {
+    background-color: rgba(0, 128, 128, 0.15);
+    border-bottom: 1px solid rgba(0, 0, 0, 0.05);
+}
+
+.extra.content.event-end {
+    background-color: rgba(255, 0, 0, 0.15);
+}
+
+.mouseHoverTargetWrapper {
+    /* margin-left: 0px; */
+    margin: 0 auto;
+    width: 80%;
+    margin-bottom: 20px;
+}
+
+.add-event.clickable {
+    color: rgb(0, 128, 128);
+    font-size: 1.2em;
+}
+
+.add-event:hover {
+    font-size: 1.5em;
+    text-shadow: 0px 0px 6px rgba(0, 0, 0, 0.5);
+}
+
+@media (max-width: 768) {
+    .card {
+        min-width: 100%;
+    }
+    .day {
+        padding: 0px;
+    }
+}
