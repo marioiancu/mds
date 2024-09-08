@@ -73,3 +73,9 @@ npm start
 <p align="center">
 <img src="/uml.png" alt="Calendar icon" width="600" hight="400">
 </p>
+
+## Workflow Diagram
+
+<p align="center">
+<img src="/sched.png" alt="Calendar icon" width="600" hight="800">
+</p>
