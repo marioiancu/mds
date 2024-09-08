@@ -1,8 +1,6 @@
 //import React, { Component } from 'react';
 //import { Header } from 'semantic-ui-react';
 
-// import './dayOfWeek.css';
-// import EditEvent from '../../../../services/EditEvent';
 
 let showModal = false;
 
