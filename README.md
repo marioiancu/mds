@@ -80,10 +80,6 @@ npm start
 <img src="/sched.png" alt="Calendar icon" width="600" hight="800">
 </p>
 
-## Contributing
-
-Contributions are welcome. You can tackle anything you see fit or an issue, and communicate with us so we can add you to the Trello team.
-
 ## License
 
 MIT License
