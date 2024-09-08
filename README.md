@@ -14,50 +14,6 @@ These instructions will get this project up and running on your local machine.
 
 You will need to install Node.js and its package manager, NPM.
 
-##### Arch Linux
-
-```
-pacman -S nodejs npm
-```
-
-##### Ubuntu and Debian based distros (Linux Mint, ElementaryOS, bash on Windows etc.)
-
-```
-curl -sL https://deb.nodesource.com/setup_6.x | sudo -E bash -
-sudo apt-get install -y nodejs
-```
-
-Note: you might also need the build tools:
-
-```
-sudo apt-get install -y build-essential
-```
-
-##### RHEL, CentOS, Fedora
-
-```
-curl --silent --location https://rpm.nodesource.com/setup_6.x | sudo bash -
-sudo yum -y install nodejs
-```
-
-If you need the build tools:
-
-```
-sudo yum install gcc-c++ make
-```
-
-##### Gentoo
-
-```
-emerge nodejs
-```
-
-##### openSUSE and SLE
-
-```
-zypper install nodejs4
-```
-
 ### Installing
 
 Enter the repository:
