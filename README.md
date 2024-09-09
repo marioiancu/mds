@@ -23,7 +23,7 @@ You will need to install Node.js and its package manager, NPM.
 Enter the repository:
 
 ```
-cd schedule-maker-app
+cd scheduleapp
 ```
 
 Install dependencies:
